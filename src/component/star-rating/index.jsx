@@ -4,7 +4,7 @@ export default function StarRating(noOfStars){
         <div className="star-rating">
             {
                 [...Array(noOfStars)].map((_,index)=>{
-                    return
+                    return sdfdsfs
                 })
             }
         </div>
